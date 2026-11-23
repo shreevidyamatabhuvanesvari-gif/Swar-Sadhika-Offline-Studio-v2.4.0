@@ -1,0 +1,13 @@
+{
+  "id": "./index.html",
+  "name": "स्वर-साधिका Offline Chant Studio",
+  "short_name": "स्वर-साधिका",
+  "lang": "hi-IN",
+  "description": "संस्कृत पाठ, स्थानीय वाणी, स्वर-अभ्यास, ध्वनिक अध्ययन और Avatar Studio",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3f0",
+  "theme_color": "#211b31",
+  "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
